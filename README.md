@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ouch-cdn2.icons8.com/NWtwLbJAXULEA03RDVPP-9dJzKycZWMwMHp4x9QHqCI/rs:fit:368:230/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMTQ5/LzEzNGQ5YWM4LTlj/YTEtNDk5My04OTIz/LTdkNmYwMjZkNGE1/OC5zdmc.png" alt="appeared on my profile"  />
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" alt="me"  />
 </div>
 <div align="center">
     <h1>
@@ -58,7 +58,6 @@
 <div align="center">
     <h3><b>Thank You for Interacting with Me..!</b></h3>
 </div>
-
 
 <!---
 Behan-Ravishka/Behan-Ravishka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
