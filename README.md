@@ -23,13 +23,13 @@
 </div>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/[www.linkedin.com/in/𝑩𝒆𝒉𝒂𝒏-𝑹𝒂𝒗𝒊𝒔𝒉𝒌𝒂-3434051b7]/">
+    <a href="https://www.linkedin.com/in/behanravishkaperera">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://www.facebook.com/[https://www.facebook.com/behanravishkaperera?mibextid=ZbWKwL]/">
+    <a href="https://www.facebook.com/behanravishkaperera">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
-    <a href="https://www.instagram.com/[https://www.instagram.com/_behan.ravishka_?igsh=MThuMnNweTBjbmtsag==]/">
+    <a href="https://www.instagram.com/_behan.ravishka_/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
     <a href="behanravishka03@gmail.com">
