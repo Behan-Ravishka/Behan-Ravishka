@@ -23,8 +23,14 @@
 </div>
 
 <div align="center">
+    <a href="https://taplink.cc/behanravishka">
+        <img src="https://img.shields.io/badge/TapLink-Your%20Website%20URL?style=for-the-badge&logoColor=blue" alt="TapLink"/>
+    </a>
     <a href="https://www.linkedin.com/in/behanravishkaperera">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.hackerrank.com/profile/behanravishka03">
+        <img src="https://shields.io/badge/HackerRank-FFA116?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank"/>
     </a>
     <a href="https://www.facebook.com/behanravishkaperera">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
