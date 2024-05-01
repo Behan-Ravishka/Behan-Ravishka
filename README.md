@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome..!&descAlign=51&descAlignY=60&fontAlign=50&textBg=false&reversal=true" >
+</p>
 <div align="center">
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" alt="me"  />
 </div>
@@ -55,10 +58,11 @@
 </br>
 <p>&nbsp<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Behan-Ravishka&show_icons=true&locale=en&layout=compact" alt="Behan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Behan-Ravishka&show_icons=true&locale=en" alt="Behan" /></p>
-<br><div align="center">
+<div align="center">
     <h2><b>Thank You for Interacting with Me..!</b></h2>
-</div></br>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=See%20You..!&descAlign=51&descAlignY=60&fontAlign=50&textBg=false&reversal=true&section=footer&animation=fadeIn&fontAlignY=80">
+</p>
 
 <!---
 Behan-Ravishka/Behan-Ravishka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
