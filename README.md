@@ -12,8 +12,6 @@
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1zMHY3MXlhYWpwcjltcHllZWQwZXlvYW82aWo0NzV0ZzE3NGJpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif" alt="me" width="200" height="200" />
     </p>
 </div>
-
-
 <div align="center">
     <h2>🚀 About Me</h2>
     <p>I'm an <b>undergraduate</b> with many professional skills and a strong personality. I'm passionate about learning new things and growing my knowledge base. I'm always looking for ways to challenge myself and to better myself as an individual. I aim to use the opportunities available to me and ensure that I am making the most out of my life experiences.</p>
@@ -54,16 +52,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" />
     <!-- Add more badges similarly -->
 </div>
-
 </br>
-<div align="center">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Behan-Ravishka&label=Profile%20Views&color=8&icon=5&pretty=true" />
-</a>
-</div>
-<div align="center">
-    <h3><b>Thank You for Interacting with Me..!</b></h3>
-</div>
+<p>&nbsp<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Behan-Ravishka&show_icons=true&locale=en&layout=compact" alt="Behan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Behan-Ravishka&show_icons=true&locale=en" alt="Behan" /></p>
+<br><div align="center">
+    <h2><b>Thank You for Interacting with Me..!</b></h2>
+</div></br>
+
 
 <!---
 Behan-Ravishka/Behan-Ravishka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
