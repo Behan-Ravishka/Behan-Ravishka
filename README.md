@@ -58,7 +58,7 @@
 </br>
 <div align="center">
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Behan-Ravishka&label=Profile%20Views&color=3&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=Behan-Ravishka&label=Profile%20Views&color=8&icon=5&pretty=true" />
 </a>
 </div>
 <div align="center">
