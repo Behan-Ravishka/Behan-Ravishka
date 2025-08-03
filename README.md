@@ -19,7 +19,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm an <b>undergraduate</b> with many professional skills and a strong personality. I'm passionate about learning new things and growing my knowledge base. I'm always looking for ways to challenge myself and to better myself as an individual. I aim to use the opportunities available to me and ensure that I am making the most out of my life experiences.</p>
+    <p>I'm an <b><i>SE Undergraduate</i></b> with many professional skills and a strong personality. I'm passionate about learning new things and growing my knowledge base. I'm always looking for ways to challenge myself and to better myself as an individual. I aim to use the opportunities available to me and ensure that I am making the most out of my life experiences.</p>
 </div>
 <div align="center">
     <h2>📢 Available On</h2>
